@@ -1,0 +1,8 @@
+P_APPLY_IN_MAIN=true
+P_DISPLAY_LOCATION_SIZE_HINTS=false
+codeGeneration.variableId=org.eclipse.wb.core.model.variable.fieldUnique
+eclipse.preferences.version=1
+property.events.codeType=2
+property.events.stubCreate=true
+stubName=${event_name}${Component_name}
+textVariable.mode=1
