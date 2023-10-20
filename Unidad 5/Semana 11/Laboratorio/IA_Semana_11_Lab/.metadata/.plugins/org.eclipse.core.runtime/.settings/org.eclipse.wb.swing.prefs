@@ -1,0 +1,10 @@
+P_APPLY_IN_MAIN=true
+P_DISPLAY_LOCATION_SIZE_HINTS=false
+codeGeneration.variableId=org.eclipse.wb.core.model.variable.fieldUnique
+eclipse.preferences.version=1
+property.events.codeType=2
+property.events.stubCreate=true
+stubName=${event_name}${Component_name}
+textVariable.mode=1
+textVariable.template=${class_acronym}${text}
+typeSpecificVariable.store=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<descriptions>\r\n<description acronym\="txt" asField\="true" class\="javax.swing.JTextField" name\="textField"/>\r\n<description acronym\="pwd" asField\="true" class\="javax.swing.JPasswordField" name\="passwordField"/>\r\n<description acronym\="tbl" asField\="true" class\="javax.swing.JTable" name\="table"/>\r\n</descriptions>
