@@ -60,11 +60,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Key features of the application.
+> Key features of the project.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Algorithms]**
+- **[Java-lang]**
+- **[Integrator-Project]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,13 +107,13 @@ You can deploy this project using:
 
 > Collaborators of this project.
 
-👤 **Juan Diego Guerra**
+👨🏼‍🚀 **Juan Diego Guerra** 🐱‍👤
 
 - GitHub: [@JuanDiegoGuerra](https://github.com/JuanDiegoGuerra)
 - Facebook: [JuanDiegoGuerra FB](https://www.facebook.com/jdx.elric/?locale=es_LA)
 - LinkedIn: [JD LinkedIn Profile](https://www.linkedin.com/in/juan-guerra-65076b1ba/)
   
-👤 **Technological Institute Cibertecc**
+🏢 **Technological Institute Cibertec** 📚
 
 - Instagram: [Cibertec Oficial IG](https://www.instagram.com/cibertecoficial/?hl=es)
 - Facebook: [Cibertec Oficial FB](https://www.facebook.com/cibertecoficial/?locale=es_LA)
@@ -127,9 +127,9 @@ You can deploy this project using:
 
 > features I will add to the project.
 
-- [ ] **[TBA]**
-- [ ] **[TBA]**
-- [ ] **[TBA]**
+- [Integrator Project] **[Comming-Soon]**
+- [Video Solutions] **[TBA]**
+- [Final Test] **[TBA]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
